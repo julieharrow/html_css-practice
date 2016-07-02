@@ -1,0 +1,43 @@
+#html_index {
+  background: url(leaf_background.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#html_blog {
+  background: url(adventure_background.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#html_aboutme {
+  background: url(leaf_background.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body{
+  padding: 20px;
+}
+
+img {
+  padding: 20px;
+  margin: auto;
+}
+
+.navigation {
+  text-align:right;
+  color: white;
+  font-family:sans-serif;
+  background-color: #8C9679; green-blue
+}
+
+.headshot {
+
+}
